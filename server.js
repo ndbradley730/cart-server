@@ -3,10 +3,10 @@
 const express = require('express');
 const bodyParser = require('body-parser')
 const fs = require('fs');
-const ITEM_CATALOG = JSON.parse(fs.readFileSync('items.json', 'utf8'));
-const CART_FILENAME = 'cart.json';
 
 // Constants
+const ITEM_CATALOG = JSON.parse(fs.readFileSync('items.json', 'utf8'));
+const CART_FILENAME = 'cart.json';
 const PORT = 8080;
 const HOST = '0.0.0.0';
 
