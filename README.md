@@ -5,7 +5,7 @@ docker build -t cart-server .
 docker run -p 8080:8080 cart-server
 ```
 
-Note that several shortcuts were taken here:
+Note that several shortcuts were taken here, for example:
 
 - No support for multiple users
 - Writing the current shopping cart to a file instead of a DB
