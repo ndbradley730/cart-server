@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Backpack",
+    "imageUrl": "/images/backpack.jpg",
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Boots",
+    "imageUrl": "/images/boots.jpg",
+    "price": 50
+  },
+  {
+    "id": 3,
+    "name": "Climbing Rope",
+    "imageUrl": "/images/rope.jpg",
+    "price": 125
+  },
+  {
+    "id": 4,
+    "name": "Tent",
+    "imageUrl": "/images/tent.jpg",
+    "price": 325
+  },
+  {
+    "id": 5,
+    "name": "Carabiner",
+    "imageUrl": "/images/carabiner.jpg",
+    "price": 25
+  }
+]

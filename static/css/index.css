@@ -1,0 +1,8 @@
+.nav.cart-nav {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.form-inline .form-control.quantity-field {
+  width: 60px;
+}

@@ -1,0 +1,14 @@
+{
+  "name": "cart-server",
+  "version": "1.0.0",
+  "description": "Cart Server Application",
+  "author": "Nick Bradley <nicholasdbradley@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "body-parser": "1.19.0"
+  }
+}
